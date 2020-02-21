@@ -78,7 +78,7 @@
       <li><a href="article.html">RSS feeds</a></li>
     </ul>
 
-    <h2>About this Site</h2>
+   <h2>About this Site</h2>
 
    <ul>
       <li><a href="article.html">Privacy Notice</a></li>
