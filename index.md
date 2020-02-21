@@ -16,11 +16,11 @@
     </form>
 <nav>
 <ul>
-      <li><a href="article.html">Home</a></li>
-      <li><a href="article.html">World</a></li>
-  <li><a href="article.html">Silicon Valley &amp; Tech</a></li>
-      <li><a href="article.html">Science &amp; Health</a></li>
-      <li><a href="article.html">U.S. Politics</a></li>
+      <li><a href="article.md">Home</a></li>
+      <li><a href="article.md">World</a></li>
+  <li><a href="article.md">Silicon Valley &amp; Tech</a></li>
+      <li><a href="article.md">Science &amp; Health</a></li>
+      <li><a href="article.md">U.S. Politics</a></li>
 </ul> 
 </nav>
 </header>
